@@ -1,1 +1,6 @@
-<h1><i>don't read me</i></h1>
+# _don't read me_
+поставил порт 3000</br>
+изменил:
+- `MessagesView.vue`
+- `MessageList.vue`
+- `MessageFrame.vue`
